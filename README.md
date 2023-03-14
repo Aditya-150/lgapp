@@ -14,5 +14,6 @@ Discord : `Aditya Prasad Mohanty#8677`<br/>
 
 ### Drive Link - [Click Here](https://drive.google.com/drive/folders/1BSmDHkwWE7NawOSSBZMWBc2NkMSM-UzZ?usp=sharing) `Drive Link contains Build .apk file and Screenshots of the App`
 
+**You can also find the apk from the releases section of this github repo.**
 
 **Happy Codding🕷️**
